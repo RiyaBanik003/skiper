@@ -13,8 +13,8 @@ const SpecialCard = () => {
         <div className='my-20'>
             <div className='w-[61.5%] mx-auto'>
                 <BadgeButton>Component Preview</BadgeButton>
-                <h2 className='text-black/80 text-center font-bold text-6xl mt-8'>Tailwind + Framer + React</h2>
-                <h5 className='text-black/80 text-center font-bold text-3xl mb-8'>Everything you need to ship</h5>
+                <h2 className='text-foreground text-center font-bold text-6xl mt-8'>Tailwind + Framer + React</h2>
+                <h5 className='text-foreground text-center font-bold text-3xl mb-8'>Everything you need to ship</h5>
                 <SkiperCard
                     title='Component that pop'
                     description='Make your app 🤌'
